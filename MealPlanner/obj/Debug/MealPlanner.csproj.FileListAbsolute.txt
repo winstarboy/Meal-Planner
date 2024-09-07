@@ -1,0 +1,5 @@
+C:\Users\Milan\Documents\Visual Studio 2012\Projects\MealPlanner\MealPlanner\bin\MealPlanner.dll
+C:\Users\Milan\Documents\Visual Studio 2012\Projects\MealPlanner\MealPlanner\bin\MealPlanner.pdb
+C:\Users\Milan\Documents\Visual Studio 2012\Projects\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Milan\Documents\Visual Studio 2012\Projects\MealPlanner\MealPlanner\obj\Debug\MealPlanner.dll
+C:\Users\Milan\Documents\Visual Studio 2012\Projects\MealPlanner\MealPlanner\obj\Debug\MealPlanner.pdb
